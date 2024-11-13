@@ -68,3 +68,11 @@
 //   multiple = nombre * i;
 //   console.log(nombre + "x" + i + "=" + multiple);
 // }
+
+// EXERCICE 10
+
+
+// let mot = prompt("Donne un mot :")
+// for(i = 0;i < mot.length; i++){
+//     console.log(mot[i]+"\n")
+// }
