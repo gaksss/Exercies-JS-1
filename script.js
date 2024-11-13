@@ -87,3 +87,8 @@
 // } else {
 //   alert("Le nombre est supérieur à 5");
 // }
+
+// EXERCICE 12
+
+// let num = prompt("Donnez un nombre pour calculer son carré :");
+// alert(num * num);
