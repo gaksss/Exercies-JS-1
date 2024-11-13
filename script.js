@@ -29,11 +29,33 @@
 
 // EXERCICE 6
 
-
 // let num1 = 56
 // let num2 = 43
 // function TrouveResteDivision(num1,num2){
-    
+
 //     alert(num1 % num2)
 
+// }
+
+// EXERCICE 7
+
+// let pointure = prompt("Donne ta pointure :");
+// let naissance = prompt("Donne ton année de naissance :");
+
+// let resultat = pointure * 2;
+// resultat = resultat + 5;
+// resultat = resultat * 50;
+// resultat = resultat - naissance;
+// resultat = resultat + 1766;
+
+// console.log(resultat)
+
+// EXERCICE 8
+
+// let age = prompt("Donne ton âge");
+
+// if (age >= 18) {
+//   alert("Tu es majeur");
+// } else {
+//   alert("Tu es mineur");
 // }
