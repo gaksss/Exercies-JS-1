@@ -1,0 +1,1 @@
+let message = alert("Nom : Doe \nPrénom : John \nVille : New-York")
