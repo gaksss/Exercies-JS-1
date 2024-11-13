@@ -26,3 +26,14 @@
 // decimal2 = Math.trunc(decimal2);
 
 // alert("Le résultat est " + decimal1 * decimal2);
+
+// EXERCICE 6
+
+
+// let num1 = 56
+// let num2 = 43
+// function TrouveResteDivision(num1,num2){
+    
+//     alert(num1 % num2)
+
+// }
