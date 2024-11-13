@@ -59,3 +59,12 @@
 // } else {
 //   alert("Tu es mineur");
 // }
+
+// EXERCICE 9
+
+// let nombre = prompt("Donne un nombre");
+// let multiple;
+// for (i = 1; i <= 10; i++) {
+//   multiple = nombre * i;
+//   console.log(nombre + "x" + i + "=" + multiple);
+// }
