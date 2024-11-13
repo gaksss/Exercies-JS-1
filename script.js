@@ -71,8 +71,19 @@
 
 // EXERCICE 10
 
-
 // let mot = prompt("Donne un mot :")
 // for(i = 0;i < mot.length; i++){
 //     console.log(mot[i]+"\n")
+// }
+
+// EXERCICE 11
+
+// let num = prompt("Entrez un nombre entre 1 et 10 :");
+
+// if (num == 5) {
+//   alert("Le nombre saisi est égal à 5");
+// } else if (num < 5) {
+//   alert("Le nombre saisi est inférieur à 5");
+// } else {
+//   alert("Le nombre est supérieur à 5");
 // }
