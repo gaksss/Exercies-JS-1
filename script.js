@@ -29,13 +29,9 @@
 
 // EXERCICE 6
 
-// let num1 = 56
-// let num2 = 43
-// function TrouveResteDivision(num1,num2){
+// import { TrouveResteDivision } from "./fonction.js";
 
-//     alert(num1 % num2)
-
-// }
+// console.log(TrouveResteDivision(21, 42))
 
 // EXERCICE 7
 
